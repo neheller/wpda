@@ -1,2 +1,3 @@
-# wpda
-Web-based Platform for Distributed Annotation (WPDA)
+# WPDA
+
+Web-based Platform for Distributed Annotation
