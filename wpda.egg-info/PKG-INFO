@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: wpda
+Version: 0.0.1
+Summary: Web-based Platform for Distributed Annotation
+Home-page: https://github.com/neheller/wpda
+Author: Nicholas Heller
+Author-email: helle246@umn.edu
+License: MIT
+Description: # WPDA
+        
+        Web-based Platform for Distributed Annotation
+        
+Keywords: annotate annotation label semantic segmentation
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Flask
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3 :: Only
+Requires-Python: >=3
+Description-Content-Type: text/markdown

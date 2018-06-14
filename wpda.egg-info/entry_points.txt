@@ -1,0 +1,3 @@
+[console_scripts]
+wpda = wpda.utils.cli:serve
+
