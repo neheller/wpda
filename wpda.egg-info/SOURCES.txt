@@ -1,7 +1,7 @@
 README.md
 wpda/__init__.py
-wpda/configuration.py
-wpda/server.py
+wpda/auth.py
+wpda/db.py
 wpda.egg-info/PKG-INFO
 wpda.egg-info/SOURCES.txt
 wpda.egg-info/dependency_links.txt

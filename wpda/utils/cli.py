@@ -8,7 +8,7 @@ import wpda
 # Start server
 def serve():
     # Set environment variable to server file location
-    os.environ["FLASK_APP"] = wpda.server_file
+    os.environ["FLASK_APP"] = wpda.package_dir
 
     # Run flask server
     run_command = "flask run"
